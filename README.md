@@ -8,6 +8,20 @@ In this project, the aim is to plan and execute marketing activities using SAP C
 
 ![ss1](https://user-images.githubusercontent.com/94572320/231014146-fc08683d-b52b-4e2e-a605-a70c29534ff3.PNG)
 
-# Creating an Account for a New Customer
+# Creating a New Customer Coount
 
-![ss2](https://user-images.githubusercontent.com/94572320/231014638-aa653466-9d8b-40e4-aca6-84da2afa224a.PNG)
+![ss3](https://user-images.githubusercontent.com/94572320/231015202-712fd4f9-6ad3-4dbd-95a3-ed0fa1e4e2ec.PNG)
+
+# Creating a New Contact Person for an Account
+
+![ss4](https://user-images.githubusercontent.com/94572320/231015419-0824b9d8-11ab-49ed-a393-6d5392e563e8.PNG)
+![ss5](https://user-images.githubusercontent.com/94572320/231015425-d836805a-4531-4102-879d-ec819b3d6647.PNG)
+
+# Completing the Task
+
+![ss6](https://user-images.githubusercontent.com/94572320/231015618-60565cfe-1c44-406f-92ab-9c01b613d075.PNG)
+
+# Creating an Appointment
+
+![ss8 1](https://user-images.githubusercontent.com/94572320/231015769-644c58fe-4739-46b4-8302-245471cafa95.PNG)
+![ss8 2](https://user-images.githubusercontent.com/94572320/231015782-649aef6c-7b24-4ef2-91c4-807082639963.PNG)
