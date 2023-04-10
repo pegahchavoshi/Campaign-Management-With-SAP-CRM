@@ -8,5 +8,5 @@ In this project, the aim is to plan and execute marketing activities using SAP C
 
 
 <p align="center">
-![ss4](https://user-images.githubusercontent.com/94572320/231013958-e0a13517-c83c-4330-bdc3-eb4e005795e4.PNG)
+![ss1](https://user-images.githubusercontent.com/94572320/231014146-fc08683d-b52b-4e2e-a605-a70c29534ff3.PNG)
 </p>
