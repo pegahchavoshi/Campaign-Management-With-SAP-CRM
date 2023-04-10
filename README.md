@@ -6,7 +6,5 @@ In this project, the aim is to plan and execute marketing activities using SAP C
 
 # Creating a Task
 
-
-<p align="center">
 ![ss1](https://user-images.githubusercontent.com/94572320/231014146-fc08683d-b52b-4e2e-a605-a70c29534ff3.PNG)
-</p>
+
