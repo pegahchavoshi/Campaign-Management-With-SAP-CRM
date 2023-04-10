@@ -25,3 +25,7 @@ In this project, the aim is to plan and execute marketing activities using SAP C
 
 ![ss8 1](https://user-images.githubusercontent.com/94572320/231015769-644c58fe-4739-46b4-8302-245471cafa95.PNG)
 ![ss8 2](https://user-images.githubusercontent.com/94572320/231015782-649aef6c-7b24-4ef2-91c4-807082639963.PNG)
+
+# Account Information Sheet
+
+![ss10](https://user-images.githubusercontent.com/94572320/231015998-411ad864-a205-4511-bf44-95a75fde3a46.PNG)
