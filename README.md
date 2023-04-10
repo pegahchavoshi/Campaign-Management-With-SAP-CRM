@@ -1,5 +1,10 @@
 # Campaign-Management-With-SAP-CRM
 
+
+# Project Overview
+
+In this project, I became familiar with various marketing and account management tasks that were facilitated by the SAP CRM system. Throughout the course of this project, I created and executed basic marketing tasks, such as establishing and maintaining a new customer account, as well as designating a contact person to be associated with the account. It is important to note that the dataset utilized in this project was exclusively created for SAP UA global curricula and was derived from the Global Bike Inc. (GBI) data set.
+
 # Introduction
 
 In this project, the aim is to plan and execute marketing activities using SAP CRM. In this case study, I will be playing the role of a salesperson. I will use the SALESPRO role to create a new customer account that brings high value to the enterprise. Following this, I will prepare customer calls and appointments, execute them professionally, and print information about the new customer account.
