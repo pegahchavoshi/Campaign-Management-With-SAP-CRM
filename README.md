@@ -8,3 +8,6 @@ In this project, the aim is to plan and execute marketing activities using SAP C
 
 ![ss1](https://user-images.githubusercontent.com/94572320/231014146-fc08683d-b52b-4e2e-a605-a70c29534ff3.PNG)
 
+# Creating an Account for a New Customer
+
+![ss2](https://user-images.githubusercontent.com/94572320/231014638-aa653466-9d8b-40e4-aca6-84da2afa224a.PNG)
