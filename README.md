@@ -19,7 +19,7 @@ In this project, the aim is to plan and execute marketing activities using SAP C
 
 ## Creating a New Contact Person for an Account
 
-<img src="![ss4](https://user-images.githubusercontent.com/94572320/231015419-0824b9d8-11ab-49ed-a393-6d5392e563e8.PNG)width="alt="1"100"/>
+![ss4](https://user-images.githubusercontent.com/94572320/231015419-0824b9d8-11ab-49ed-a393-6d5392e563e8.PNG)
 ![ss5](https://user-images.githubusercontent.com/94572320/231015425-d836805a-4531-4102-879d-ec819b3d6647.PNG)
 
 ## Completing the Task
